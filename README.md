@@ -7,20 +7,21 @@ simple daughter board for apple //e that replaces 4x4164 dram with 4464 dram chi
 - 4x4164 can be replaced with 1x4464
 - apple //e has 8x4164 chips on mainboard, so we can replace them with 2x4464 chips
 
+## schematic
+
+- ![schematic](schematic.png)
+
+## making
+
+- ![notes](notes.png)
+- ![top.jpg](top.jpg)
+- ![bottom.jpg](bottom.jpg)
+- ![testing.jpg](testing.jpg)
+
 ## references
 
 - [4164 datasheet](4164.pdf)
 - [4464 datasheet](4464.pdf)
-
-## schematic
-
-![schematic](schematic.png)
-
-## in action
-
-- ![top.jpg](top.jpg)
-- ![bottom.jpg](bottom.jpg)
-- ![installed.jpg](installed.jpg)
 
 ---
 That's all folks!
